@@ -25,6 +25,7 @@ This is a starter template for the Agentic AI individual assignment.
 
 Note: For Detailed Report plese follow the below link:
 
-**Detailed Report:** [**GitHub Repository:** [https://github.com/shaikshan/agentic_ai_starter_project_1](https://github.com/shaikshan/agentic_ai_starter_project_1)]
+**Detailed Report:** [https://github.com/shaikshan/agentic_ai_starter_project_1/blob/main/report/report.md](https://github.com/shaikshan/agentic_ai_starter_project_1/blob/main/report/report.md)
+
 
 Good luck and have fun exploring Agentic AI!
